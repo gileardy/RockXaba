@@ -14,7 +14,7 @@ body{
 .menu-principal{
     width: 100%;
     background-color: black;
-    height: 120px;
+    height: 19%;
     
 }
 
@@ -201,7 +201,7 @@ img {vertical-align: middle;}
 
 .about img{
   height: auto;
-  width: 420px;
+  width: 30%;
 
 }
 .about-text{
