@@ -14,13 +14,13 @@ body{
 .menu-principal{
     width: 100%;
     background-color: black;
-    height: 19%;
+    height: 16%;
     
 }
 
 main{
     margin: 0 auto;
-    width: 980px;
+
     position: relative;
 
 
@@ -29,8 +29,8 @@ main{
 .menu-1{
     position: absolute;
     width: 90%;
-    padding-left: 10px;
-    padding-top: 30px;
+    padding-left: 0%;
+    padding-top: 2%;
     font-family: 'Staatliches', cursive;;
     text-align: center;
     
@@ -40,7 +40,7 @@ main{
     display: inline-block;
     list-style: none;
     color: white;
-    height: 70px;
+    height: 100%;
     
 
 }
@@ -63,7 +63,7 @@ main{
     list-style: none;
     color: white;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 130%;
     margin-left: 15px;
     text-transform: uppercase;
     
@@ -102,7 +102,7 @@ text-align: end;
   
     position: absolute; 
     top: 0; 
-    left: 30;
+    left: 2%;
   text-align: start;
  
 }
@@ -128,8 +128,8 @@ img {vertical-align: middle;}
     position: absolute;
     top: 50%;
     width: auto;
-    padding: 16px;
-    margin-top: -22px;
+    padding: 1%;
+    margin-top: 1%;
     color: #fb9afc;
     font-weight: bold;
     font-size: 50px;
